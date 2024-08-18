@@ -130,6 +130,7 @@ bool GameChecker()
 	{
 		if(x.second == empty)
 		{
+			std::cout << "Not done yet";
 			return false;
 		}
 	}
